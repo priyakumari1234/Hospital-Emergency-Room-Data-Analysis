@@ -12,4 +12,5 @@
 <li>✅ Percentage of Patients Seen Within 30 Minutes</li>
 </ul>
 <p>📊 We will use Power query to Extract and Transform data, Power Pivot to Create relationship and Add DAX Formula then Pivot Tables to generate reports, AND Data Visualization techniques to create an interactive dashboard that helps hospitals optimize emergency room operations.</p>
-
+<H4>HOSPITAL EMERGENCY ROOM DATA ANALYSIS DASHBOARD</H4>
+<img src="https://github.com/priyakumari1234/Hospital-Emergency-Room-Data-Analysis/blob/main/Dashboard_screen.png" alt="dashboard-image">
